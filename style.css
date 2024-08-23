@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1280px;
+    width: 100%;
+    margin-inline: auto;
+}
+.container{
+    border: 3px solid black;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.wrapper{
+    display: flex;
+    gap: 5px;
+}
+.left_items{}
+.lorem1{
+    width: 650px;
+    height: 200px;
+    background-color: green;
+}
+.lorems-2-3-4{
+   display: flex;
+}
+.lorems-2-3-4{
+    display: flex;
+}
+.lorem-2-4{}
+.lorem-2{
+    width: 325px;
+    height: 100px;
+    background-color: blueviolet;
+}
+.lorem-4{
+    width: 325px;
+    height: 100px;
+    background-color: aquamarine;  
+}
+.lorem-3{
+    width: 325px;
+    height: 200px;
+    background-color: grey;
+}
+.lorem-5{
+    width: 650px;
+    height: 80px;
+    background-color: palevioletred;
+}
+.right_items{
+
+}
+.lorem-6{
+    width: 350px;
+    height: 480px;
+    background-color: blue;
+}
+
+
